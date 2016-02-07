@@ -33,4 +33,4 @@ cacheSolve <- function(x, ...) {
 ## execute as:
 ## m1 <- diag(3, 5)
 ## cachedMatrix <- makeCacheMatrix(m1)
-## cacheSole(cachedMatrix)
+## cacheSolve(cachedMatrix)
